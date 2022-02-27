@@ -1,0 +1,95 @@
+2022-02-08 19:42:53,805 :INFO :test_e2e :[<selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="ceb80b58-b6cd-4dc7-acc2-f6ec3b1b011c")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="e3755d7f-d02f-4917-ac9b-3ca0eb5fde7b")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="3bbc1ed9-a55c-463b-9ae6-04c683a7f192")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="7a1e21bf-78f5-421d-a6a6-51599366fe93")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="c7972135-69f9-47d5-886f-486b0aa60166")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="f7c18217-3db9-48e9-957b-1a89906e6fcf")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="b60f89aa-a024-4f5e-8d46-a2d525936589")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="3cd4681c-4b37-4842-a615-05e93cd7daec")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="0f541184-82e2-4b6f-97c7-49b5e3294b01")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="4e5fab26-fc3d-4611-a327-230099c7bb12")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="fa7b9754-16e5-451d-8f0f-deaac9f9896d")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="c040167f-3a67-4606-908c-e5d499f13f31")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="78ec42d9-e163-4d8f-99df-a2df0621cb7c")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="ae83a8cf-c3ac-4775-a762-1e00851d783c")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="1a454767-898b-4b2d-ab44-a187b8f8d894")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="37f4bd93-144f-49cf-b330-d62d33be5607")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="f978e838-0672-4080-a322-bde2f36fd54c")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="bf79bcfe-a155-4dc5-8086-66a8dd85645d")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="4aeccc8e-9169-45bc-9b68-3f7c99668e8c")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="99266219-4fa7-43e6-94f8-61103aca40d1")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="87fd5cd1-794d-4ad5-9a1d-51e83b0d068d")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="bc2fbf85-500d-47f5-a444-e8e091e2c59d")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="2ee20e50-7478-4f60-bce0-7e140dc1f1ff")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="5972cc2f-e7b3-4071-84ca-5572a75be0f3")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="9779a415-3a6b-4c31-850d-e8ce314dbb81")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="00ee3350-938c-477b-b82b-61e6b22ee0a7")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="93180977-1691-48ae-aa2a-a69e48ed7dd9")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="df533ffd-c18b-4308-9a68-dcda4610a7bd")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="55955844-bf14-47de-883e-9f8182006a11")>, <selenium.webdriver.remote.webelement.WebElement (session="a93a7c7c1c4722d42866d4ad3d6446f3", element="07be830f-347e-4314-9229-d198fb59da39")>]
+2022-02-08 19:42:54,434 :INFO :test_e2e :Brocolli is successfully selected
+2022-02-17 18:32:56,787 :INFO :test_e2e :Brocolli - 1 Kg
+2022-02-17 18:32:56,970 :INFO :test_e2e :Cauliflower - 1 Kg
+2022-02-17 18:32:56,994 :INFO :test_e2e :Cucumber - 1 Kg
+2022-02-17 18:32:57,012 :INFO :test_e2e :Beetroot - 1 Kg
+2022-02-17 18:32:57,030 :INFO :test_e2e :Carrot - 1 Kg
+2022-02-17 18:32:57,047 :INFO :test_e2e :Tomato - 1 Kg
+2022-02-17 18:32:57,066 :INFO :test_e2e :Beans - 1 Kg
+2022-02-17 18:32:57,084 :INFO :test_e2e :Brinjal - 1 Kg
+2022-02-17 18:32:57,103 :INFO :test_e2e :Capsicum
+2022-02-17 18:32:57,125 :INFO :test_e2e :Mushroom - 1 Kg
+2022-02-17 18:32:57,143 :INFO :test_e2e :Potato - 1 Kg
+2022-02-17 18:32:57,163 :INFO :test_e2e :Pumpkin - 1 Kg
+2022-02-17 18:32:57,180 :INFO :test_e2e :Corn - 1 Kg
+2022-02-17 18:32:57,198 :INFO :test_e2e :Onion - 1 Kg
+2022-02-17 18:32:57,216 :INFO :test_e2e :Apple - 1 Kg
+2022-02-17 18:32:57,235 :INFO :test_e2e :Banana - 1 Kg
+2022-02-17 18:32:57,253 :INFO :test_e2e :Grapes - 1 Kg
+2022-02-17 18:32:57,269 :INFO :test_e2e :Mango - 1 Kg
+2022-02-17 18:32:57,288 :INFO :test_e2e :Musk Melon - 1 Kg
+2022-02-17 18:32:57,307 :INFO :test_e2e :Orange - 1 Kg
+2022-02-17 18:32:57,326 :INFO :test_e2e :Pears - 1 Kg
+2022-02-17 18:32:57,349 :INFO :test_e2e :Pomegranate - 1 Kg
+2022-02-17 18:32:57,371 :INFO :test_e2e :Raspberry - 1/4 Kg
+2022-02-17 18:32:57,389 :INFO :test_e2e :Strawberry - 1/4 Kg
+2022-02-17 18:32:57,408 :INFO :test_e2e :Water Melon - 1 Kg
+2022-02-17 18:32:57,426 :INFO :test_e2e :Almonds - 1/4 Kg
+2022-02-17 18:32:57,444 :INFO :test_e2e :Pista - 1/4 Kg
+2022-02-17 18:32:57,462 :INFO :test_e2e :Nuts Mixture - 1 Kg
+2022-02-17 18:32:57,480 :INFO :test_e2e :Cashews - 1 Kg
+2022-02-17 18:32:57,500 :INFO :test_e2e :Walnuts - 1/4 Kg
+2022-02-17 18:32:57,596 :INFO :test_e2e :Brocolli is successfully selected
+2022-02-17 18:37:44,795 :INFO :test_e2e :Brocolli - 1 Kg
+2022-02-17 18:37:44,964 :INFO :test_e2e :Cauliflower - 1 Kg
+2022-02-17 18:37:44,987 :INFO :test_e2e :Cucumber - 1 Kg
+2022-02-17 18:37:45,006 :INFO :test_e2e :Beetroot - 1 Kg
+2022-02-17 18:37:45,028 :INFO :test_e2e :Carrot - 1 Kg
+2022-02-17 18:37:45,047 :INFO :test_e2e :Tomato - 1 Kg
+2022-02-17 18:37:45,067 :INFO :test_e2e :Beans - 1 Kg
+2022-02-17 18:37:45,087 :INFO :test_e2e :Brinjal - 1 Kg
+2022-02-17 18:37:45,108 :INFO :test_e2e :Capsicum
+2022-02-17 18:37:45,130 :INFO :test_e2e :Mushroom - 1 Kg
+2022-02-17 18:37:45,150 :INFO :test_e2e :Potato - 1 Kg
+2022-02-17 18:37:45,173 :INFO :test_e2e :Pumpkin - 1 Kg
+2022-02-17 18:37:45,195 :INFO :test_e2e :Corn - 1 Kg
+2022-02-17 18:37:45,215 :INFO :test_e2e :Onion - 1 Kg
+2022-02-17 18:37:45,234 :INFO :test_e2e :Apple - 1 Kg
+2022-02-17 18:37:45,254 :INFO :test_e2e :Banana - 1 Kg
+2022-02-17 18:37:45,275 :INFO :test_e2e :Grapes - 1 Kg
+2022-02-17 18:37:45,294 :INFO :test_e2e :Mango - 1 Kg
+2022-02-17 18:37:45,313 :INFO :test_e2e :Musk Melon - 1 Kg
+2022-02-17 18:37:45,331 :INFO :test_e2e :Orange - 1 Kg
+2022-02-17 18:37:45,350 :INFO :test_e2e :Pears - 1 Kg
+2022-02-17 18:37:45,375 :INFO :test_e2e :Pomegranate - 1 Kg
+2022-02-17 18:37:45,397 :INFO :test_e2e :Raspberry - 1/4 Kg
+2022-02-17 18:37:45,415 :INFO :test_e2e :Strawberry - 1/4 Kg
+2022-02-17 18:37:45,433 :INFO :test_e2e :Water Melon - 1 Kg
+2022-02-17 18:37:45,452 :INFO :test_e2e :Almonds - 1/4 Kg
+2022-02-17 18:37:45,471 :INFO :test_e2e :Pista - 1/4 Kg
+2022-02-17 18:37:45,490 :INFO :test_e2e :Nuts Mixture - 1 Kg
+2022-02-17 18:37:45,509 :INFO :test_e2e :Cashews - 1 Kg
+2022-02-17 18:37:45,527 :INFO :test_e2e :Walnuts - 1/4 Kg
+2022-02-17 18:37:45,620 :INFO :test_e2e :Brocolli is successfully selected
+2022-02-17 18:44:08,545 :INFO :test_e2e :Brocolli - 1 Kg
+2022-02-17 18:44:08,714 :INFO :test_e2e :Cauliflower - 1 Kg
+2022-02-17 18:44:08,732 :INFO :test_e2e :Cucumber - 1 Kg
+2022-02-17 18:44:08,755 :INFO :test_e2e :Beetroot - 1 Kg
+2022-02-17 18:44:08,777 :INFO :test_e2e :Carrot - 1 Kg
+2022-02-17 18:44:08,797 :INFO :test_e2e :Tomato - 1 Kg
+2022-02-17 18:44:08,817 :INFO :test_e2e :Beans - 1 Kg
+2022-02-17 18:44:08,837 :INFO :test_e2e :Brinjal - 1 Kg
+2022-02-17 18:44:08,857 :INFO :test_e2e :Capsicum
+2022-02-17 18:44:08,877 :INFO :test_e2e :Mushroom - 1 Kg
+2022-02-17 18:44:08,897 :INFO :test_e2e :Potato - 1 Kg
+2022-02-17 18:44:08,917 :INFO :test_e2e :Pumpkin - 1 Kg
+2022-02-17 18:44:08,935 :INFO :test_e2e :Corn - 1 Kg
+2022-02-17 18:44:08,955 :INFO :test_e2e :Onion - 1 Kg
+2022-02-17 18:44:08,976 :INFO :test_e2e :Apple - 1 Kg
+2022-02-17 18:44:08,995 :INFO :test_e2e :Banana - 1 Kg
+2022-02-17 18:44:09,015 :INFO :test_e2e :Grapes - 1 Kg
+2022-02-17 18:44:09,034 :INFO :test_e2e :Mango - 1 Kg
+2022-02-17 18:44:09,053 :INFO :test_e2e :Musk Melon - 1 Kg
+2022-02-17 18:44:09,071 :INFO :test_e2e :Orange - 1 Kg
+2022-02-17 18:44:09,090 :INFO :test_e2e :Pears - 1 Kg
+2022-02-17 18:44:09,110 :INFO :test_e2e :Pomegranate - 1 Kg
+2022-02-17 18:44:09,128 :INFO :test_e2e :Raspberry - 1/4 Kg
+2022-02-17 18:44:09,146 :INFO :test_e2e :Strawberry - 1/4 Kg
+2022-02-17 18:44:09,173 :INFO :test_e2e :Water Melon - 1 Kg
+2022-02-17 18:44:09,191 :INFO :test_e2e :Almonds - 1/4 Kg
+2022-02-17 18:44:09,209 :INFO :test_e2e :Pista - 1/4 Kg
+2022-02-17 18:44:09,227 :INFO :test_e2e :Nuts Mixture - 1 Kg
+2022-02-17 18:44:09,245 :INFO :test_e2e :Cashews - 1 Kg
+2022-02-17 18:44:09,263 :INFO :test_e2e :Walnuts - 1/4 Kg
+2022-02-17 18:44:09,353 :INFO :test_e2e :Brocolli is successfully selected
